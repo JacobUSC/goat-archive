@@ -1,5 +1,5 @@
 # goat-archive
-archive of my yugioh website with node js and mongo db. This website 
+archive of my Yugi-Oh website with nodejs and mongodb. This website is a deck builder for the GOAT format of the Yugi-Oh Trading Card Game
 <br>
 <br>
 This was created for a school assignment at the University of South Carolina CSCE 242 course.
