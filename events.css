@@ -1,0 +1,25 @@
+/* Author: Jacob Russell */
+/* CSS for The Events page */
+/* builder.html */
+
+.hidden {
+	display: none;
+}
+
+#event {
+	border-top: 1px solid var(--yami-color1);
+}
+
+iframe {
+	border-radius: 15px;
+	display: block;
+	margin: auto;
+}
+
+#event h3 {
+	text-align: center;
+}
+
+#event p {
+	text-align: center;
+}
